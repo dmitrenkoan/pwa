@@ -29,3 +29,6 @@
   display: block;
   margin: 10px auto;
 }
+.enable-geolocation {
+  margin: 10px 0px;
+}
